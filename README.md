@@ -1,4 +1,4 @@
-![image](https://github.com/thieveshkar/thieveshkar/assets/161707841/689ddd97-95b4-425c-a4f3-8be54ef10407)<h1 align="center">Hi 👋, I'm Thieveshkar</h1>
+<h1 align="center">Hi 👋, I'm Thieveshkar</h1>
 <h3 align="center">I am a passionate first-year undergraduate at APlIT Sri Lanka, eager to apply my knowledge in Cyber Security. I am also proficient in graphic design, with experience using Adobe Illustrator, Photoshop, and Premiere Pro. I am committed to personal growth and enjoy collaborating with others.</h3>
 
 🌱 I’m currently learning C# and JavaScript<br><br>📫 How to reach me offices_sit.0z@icloud.com
