@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1S5BTz5kuEgnv0iBJADwIB-u47SXLp2F_/view?usp=drive_link)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thieveshkar</h1>
 <h3 align="center">I am a passionate first-year undergraduate at APlIT Sri Lanka, eager to apply my knowledge in Cyber Security. I am also proficient in graphic design, with experience using Adobe Illustrator, Photoshop, Premiere Pro and After Effects. I am committed to personal growth and enjoy collaborating with others.</h3>
 
