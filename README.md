@@ -1,6 +1,6 @@
 <img src="Image/Discord.png">
 <h1 align="center">Hi 👋, I'm Thieveshkar</h1>
-<h3 align="center">I am a passionate first-year undergraduate at APlIT Sri Lanka (partnered with Staffordshire University UK), eager to apply my knowledge in Cyber Security. I am also proficient in graphic design, with experience using Adobe Illustrator, Photoshop, Premiere Pro and After Effects. I am committed to personal growth and enjoy collaborating with others.</h3>
+<h3 align="center">I am a second-year Cyber Security undergraduate at APIIT Sri Lanka, affiliated with Staffordshire University, UK. As a Web Development Intern at Infinity Co., I am gaining valuable industry experience while refining my technical and problem-solving skills. With a creative edge in graphic design, I bring expertise in Adobe Illustrator, Photoshop, Premiere Pro, and After Effects to craft engaging digital content. Passionate about cybersecurity and technology, I am committed to continuous learning and collaboration to drive meaningful impact in the digital landscape.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thieveshkar) 
