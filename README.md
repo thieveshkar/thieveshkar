@@ -57,5 +57,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/thieveshkar/thieveshkar/output/snake.svg" alt="Snake animation" />
+<div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI"><div class="styles__Container-sc-19ug73m-0 exSkSe"><img src="/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd"></div></div>
 
 ###
