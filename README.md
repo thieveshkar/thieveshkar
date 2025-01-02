@@ -56,7 +56,7 @@
 
 <br clear="both">
 <center>
-<li data-sectionid="7c760a0a-3513-4180-900b-22911cebe88f" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 cGCizk" draggable="false" data-projection-id="3966" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div class="styles__Container-sc-19ug73m-0 exSkSe"><img src="/Image/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd"></div></div></li>
+<li style="list-style-type: none; data-sectionid="7c760a0a-3513-4180-900b-22911cebe88f" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 cGCizk" draggable="false" data-projection-id="3966" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div class="styles__Container-sc-19ug73m-0 exSkSe"><img src="/Image/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd"></div></div></li>
 </center>
 
 ###
