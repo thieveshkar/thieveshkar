@@ -1,1 +1,62 @@
-<div class="styles__Container-sc-2e7rvp-0 BoXnC"><div class="styles__Wrapper-sc-2e7rvp-1 hyDomu"><button aria-label="Clear canvas" class="styles__Button-sc-2e7rvp-2 hglnO"><svg viewBox="0 0 24 24" height="16" width="16" aria-hidden="true" focusable="false" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="StyledIconBase-ea9ulj-0 fHrGFt"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"></path></svg></button></div><ul data-projection-id="3960"><li data-sectionid="3395ff74-f1c7-4ec6-a3f7-589bd12a2d7e" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 hiqXCL" draggable="false" data-projection-id="3961" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div class="styles__Container-sc-1xttduv-0 hfpchq"><h2 class="styles__Text-sc-1xttduv-1 jRvySH">I am a second-year Cyber Security undergraduate at APIIT Sri Lanka, affiliated with Staffordshire University, UK. As a Web Development Intern at Infinity Co., I am gaining valuable industry experience while refining my technical and problem-solving skills. With a creative edge in graphic design, I bring expertise in Adobe Illustrator, Photoshop, Premiere Pro, and After Effects to craft engaging digital content. Passionate about cybersecurity and technology, I am committed to continuous learning and collaboration to drive meaningful impact in the digital landscape.</h2></div></div></li><li data-sectionid="b2713144-96be-487c-8385-c0f2aa2ea58f" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 hiqXCL" draggable="false" data-projection-id="3962" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div class="styles__Container-sc-1hmrn11-0 jxGpzD"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thieveshkar&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false" alt="stats graph"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=thieveshkar&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false" alt="languages graph"></div></div></li><li data-sectionid="3657355a-a48a-42ec-9c29-cf29f5d5a6dd" data-hasfloat="true" float="right" class="styles__Container-sc-6dg9xf-0 MBhjD" draggable="false" data-projection-id="3963" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div class="styles__Container-sc-ho21za-0 bGtBQL"><img height="136" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Image"></div></div></li><li data-sectionid="274e5f5e-90e7-414e-8ecd-65ba96fe868b" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 hiqXCL" draggable="false" data-projection-id="3964" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div spacing="12" class="styles__Container-sc-1ih1sb6-0 eKJxnF"><img height="30" alt="html5 logo" src="https://skillicons.dev/icons?i=html"><img height="30" alt="css3 logo" src="https://skillicons.dev/icons?i=css"><img height="30" alt="javascript logo" src="https://cdn.simpleicons.org/javascript/F7DF1E"><img height="30" alt="python logo" src="https://skillicons.dev/icons?i=py"><img height="30" alt="csharp logo" src="https://skillicons.dev/icons?i=cs"><img height="30" alt="php logo" src="https://skillicons.dev/icons?i=php"><img height="30" alt="apache logo" src="https://cdn.simpleicons.org/apache/D22128"><img height="30" alt="wordpress logo" src="https://skillicons.dev/icons?i=wordpress"><img height="30" alt="adobephotoshop logo" src="https://skillicons.dev/icons?i=ps"><img height="30" alt="adobeillustrator logo" src="https://skillicons.dev/icons?i=ai"><img height="30" alt="adobepremierepro logo" src="https://skillicons.dev/icons?i=pr"><img height="30" alt="figma logo" src="https://skillicons.dev/icons?i=figma"></div></div></li><li data-sectionid="84f164c8-4926-4b89-bf89-28838ebb7a43" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 hiqXCL" draggable="false" data-projection-id="3965" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 doLdew"><div spacing="5" class="styles__Container-sc-1a0u28o-0 kKdtIB"><a href="https://www.instagram.com/thieveshkar/?igsh=N2JrMXkxa296Z3oz&amp;utm_source=qr" target="_blank" class="styles__A-sc-1a0u28o-1 hjIEnf"><img height="35" alt="instagram logo" src="https://img.shields.io/static/v1?message=Instagram&amp;logo=instagram&amp;label=&amp;color=E4405F&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge"></a><a href="https://www.linkedin.com/in/thieveshkar/" target="_blank" class="styles__A-sc-1a0u28o-1 hjIEnf"><img height="35" alt="linkedin logo" src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge"></a></div></div></li><li data-sectionid="7c760a0a-3513-4180-900b-22911cebe88f" data-hasfloat="false" float="none" class="styles__Container-sc-6dg9xf-0 cGCizk" draggable="false" data-projection-id="3966" style="z-index: unset; transform: none; user-select: none; touch-action: none;"><div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI"><div class="styles__Container-sc-19ug73m-0 exSkSe"><img src="/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd"></div></div></li></ul></div>
+<img src="Image/Discord.png">
+<h1 align="center">Hi 👋, I'm Thieveshkar</h1>
+<h2 align="center">I am a second-year Cyber Security undergraduate at APIIT Sri Lanka, affiliated with Staffordshire University, UK. As a Web Development Intern at Infinity Co., I am gaining valuable industry experience while refining my technical and problem-solving skills. With a creative edge in graphic design, I bring expertise in Adobe Illustrator, Photoshop, Premiere Pro, and After Effects to craft engaging digital content. Passionate about cybersecurity and technology, I am committed to continuous learning and collaboration to drive meaningful impact in the digital landscape.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thieveshkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thieveshkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="136" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/thieveshkar/?igsh=N2JrMXkxa296Z3oz&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thieveshkar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thieveshkar/thieveshkar/output/snake.svg" alt="Snake animation" />
+<div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI"><div class="styles__Container-sc-19ug73m-0 exSkSe"><img src="/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd"></div></div>
+
+###
