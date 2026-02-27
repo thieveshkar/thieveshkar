@@ -1,84 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=120&text=USER@THIEVESHKAR:~%20./EXECUTE_PROFILE.SH&fontSize=25&fontAlignY=50&fontAlign=30&fontColor=00FF00&descAlignY=70&descAlign=30" width="100%" alt="Terminal Header" />
+  <a href="https://thieveshkar.me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=120&lines=%3E+System.init()%3B;%3E+Loading+Thieveshkar.exe...;%3E+Cyber+Security+Specialist;%3E+Full-Stack+Web+Developer;%3E+Digital+Experience+Designer;%3E+Access+Granted." alt="Typing effect header" />
+  </a>
 </div>
 
-<br>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
-      <h3><samp>&gt; WHOAMI</samp></h3>
-      <p>
-        <samp><b>[+] IDENTITY:</b></samp> Thieveshkar<br>
-        <samp><b>[+] STATUS:</b></samp> 3rd-Year Cyber Security Undergrad @ APIIT (Staffordshire Univ, UK)<br>
-        <samp><b>[+] DIRECTIVE:</b></samp> Web Dev Intern @ Infinity Co.<br>
-      </p>
-      <p>
-        I bridge the gap between impenetrable security and immaculate design. Whether I am hunting threats in Volatility, engineering Windows utilities like <b>DockNotch</b>, or designing high-end digital assets, my focus is on building systems that are as secure as they are visually striking.
-      </p>
-      <br>
-      <h3><samp>&gt; ARSENAL</samp></h3>
-      <code>&nbsp;CYBER_SEC&nbsp;</code>
-      <img src="https://skillicons.dev/icons?i=kali,linux,python,cs" height="24" align="absmiddle" /> <br><br>
-      <code>&nbsp;DEV_STACK&nbsp;</code>
-      <img src="https://skillicons.dev/icons?i=js,html,css,php,wordpress" height="24" align="absmiddle" /> <br><br>
-      <code>&nbsp;DESIGN&nbsp;&nbsp;&nbsp;&nbsp;</code>
-      <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" height="24" align="absmiddle" />
-    </td>
-    
-    <td width="45%" valign="top" style="border: none;">
-      <h3><samp>&gt; TELEMETRY</samp></h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=thieveshkar&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=00FF00" width="100%" alt="stats graph" />
-      </div>
-      <br>
-      <h3><samp>&gt; COMM_LINKS</samp></h3>
-      <div align="left">
-        <a href="https://www.linkedin.com/in/thieveshkar/" target="_blank">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://thieveshkar.me" target="_blank">
-          <img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=00FF00" />
-        </a>
-        <a href="https://www.instagram.com/thieveshkar/?igsh=N2JrMXkxa296Z3oz&utm_source=qr" target="_blank">
-          <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3><samp>&gt; DEPLOYED_PAYLOADS (TOP PROJECTS)</samp></h3>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
-      <b>🛡️ <a href="https://github.com/thieveshkar/Offensive-Security-Forensics-Portfolio">Offensive Security & Forensics</a></b><br>
-      Advanced blue/red team portfolio featuring Volatility memory forensics, Splunk threat hunting (BOTS v3), and SSH MFA implementation.
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
-      <b>💻 <a href="https://github.com/thieveshkar/DockNotch">DockNotch (Windows App)</a></b><br>
-      A proprietary Windows desktop utility adding a modern dock-style notch for quick access to media, battery, drives, and notes.
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
-      <b>🚩 <a href="https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM">RootQuest CTF VM</a></b><br>
-      Custom vulnerable VM designed for teaching multi-stage penetration testing. Includes 10 challenges across Forensics, Web (SQLi, XSS), and Crypto.
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
-      <b>⚡ <a href="https://github.com/thieveshkar/OptiBulk-Images">OptiBulk-Images</a></b><br>
-      High-performance bulk image optimization utility for Windows, featuring smart renaming and SEO metadata injection.
-    </td>
-  </tr>
-</table>
-
-<br>
+<h3 align="center">
+  Architecting Secure Infrastructures. Engineering Digital Experiences.
+</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thieveshkar/thieveshkar/main/Image/snake.svg" alt="GitHub Snake Contributions" width="100%">
-  <br>
-  <samp>EOF</samp>
+  <a href="https://thieveshkar.me"><img src="https://img.shields.io/badge/-Portfolio-050505?style=flat-square&logo=google-chrome&logoColor=00FF9D"></a>
+  <a href="https://www.linkedin.com/in/thieveshkar/"><img src="https://img.shields.io/badge/-LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=00FF9D"></a>
+  <a href="https://www.instagram.com/thieveshkar/"><img src="https://img.shields.io/badge/-Instagram-050505?style=flat-square&logo=instagram&logoColor=00FF9D"></a>
+</div>
+
+<br><br>
+
+<div align="left">
+  
+<details>
+  <summary><b><samp>▹ 01. THE SECURITY ANALYST (Blue & Red Team)</samp></b></summary>
+  <blockquote>
+    <p>Focusing on robust defense mechanisms and offensive simulations. Currently an undergraduate at APIIT Sri Lanka (Staffordshire University). My core areas include:</p>
+    <ul>
+      <li><b>Forensics & Incident Response:</b> Volatility-based memory forensics, Splunk threat hunting (BOTS v3).</li>
+      <li><b>Penetration Testing:</b> Multi-stage exploitation, creating custom CTF vulnerable VMs (RootQuest).</li>
+      <li><b>Infrastructure:</b> SSH MFA implementation, campus network design (VLAN, DHCP, Routing).</li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b><samp>▹ 02. THE SOFTWARE & WEB ENGINEER</samp></b></summary>
+  <blockquote>
+    <p>Bridging the gap between backend logic and frontend fluidity. Gaining industry experience as a Web Dev Intern at Infinity Co.</p>
+    <ul>
+      <li><b>Proprietary Tools:</b> Engineered <i>OptiBulk-Images</i> (high-performance SEO image optimizer) and <i>DockNotch</i> (Windows desktop utility).</li>
+      <li><b>Full-Stack Builds:</b> E-commerce platforms, C# Event Management systems, and scalable web apps.</li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b><samp>▹ 03. THE DIGITAL DESIGNER</samp></b></summary>
+  <blockquote>
+    <p>Security doesn't have to be ugly. I bring a creative edge to every project, ensuring intuitive UI and striking visuals.</p>
+    <ul>
+      <li><b>Motion & Video:</b> Adobe Premiere Pro, After Effects.</li>
+      <li><b>Vector & Raster:</b> Adobe Illustrator, Photoshop.</li>
+      <li><b>Prototyping:</b> Figma.</li>
+    </ul>
+  </blockquote>
+</details>
+
+</div>
+
+<br><br>
+
+<h3 align="center"><samp>🛠️ TECHNICAL ARSENAL</samp></h3>
+
+<table align="center" width="100%" style="border: none;">
+  <tr align="center">
+    <td width="33%"><b>Offensive & Defensive</b></td>
+    <td width="33%"><b>Development Stack</b></td>
+    <td width="33%"><b>Design & Prototyping</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://skillicons.dev/icons?i=kali,linux,python,wireshark" /><br>
+      <img src="https://skillicons.dev/icons?i=bash,powershell,cs,regex" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,html,css,php" /><br>
+      <img src="https://skillicons.dev/icons?i=electron,dotnet,wordpress,mysql" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" /><br>
+      <img src="https://skillicons.dev/icons?i=figma,xd,blender,svg" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=thieveshkar&show_icons=true&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=a9b1d6&bg_color=050505&hide_title=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thieveshkar&layout=compact&hide_border=true&title_color=00FF9D&text_color=a9b1d6&bg_color=050505&hide_title=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thieveshkar/thieveshkar/main/Image/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thieveshkar/thieveshkar/main/Image/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thieveshkar/thieveshkar/main/Image/snake.svg">
+  </picture>
 </div>
