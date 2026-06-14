@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Thieveshkar+Kalaichelvan;Cyber+Security+%7C+SOC+Intern+%7C+Threat+Analyst;Final+Year+%E2%80%94+APIIT+Sri+Lanka+%C3%97+Staffordshire+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Thieveshkar+Kalaichelvan;Cyber+Security+%7C+SOC+Intern+%7C+Threat+Analyst;Final+Year+%E2%80%94+APIIT+Sri+Lanka+%C3%97+Staffordshire+University" alt="Typing SVG" />
 
 <br/>
 
@@ -18,8 +18,6 @@ Final-year Cyber Security undergraduate at **APIIT Sri Lanka**, affiliated with 
 
 My primary domain is **cybersecurity** — with hands-on experience in blue team operations, penetration testing, digital forensics, and SIEM analysis. Beyond security, I bring a secondary edge in **graphic design** (Illustrator, Photoshop, Premiere Pro, After Effects) and **web development** — because the best defenders understand every layer of the stack.
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux
-
 ---
 
 ### `$ cat current_ops.log`
@@ -35,25 +33,11 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 
 ### `$ ls ./skills/`
 
-<div align="center">
-
-**Cyber Security & Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,py,c,wireshark" height="36" />
-
-<br/><br/>
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" height="36" />
-
-<br/><br/>
-
-**Design & Creative**
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" height="36" />
-
-</div>
+| Domain | Technologies |
+| :--- | :--- |
+| **Cyber Security & Systems** | <img src="https://skillicons.dev/icons?i=linux,bash,py,c,wireshark" height="36" /> |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" height="36" /> |
+| **Design & Creative** | <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" height="36" /> |
 
 ---
 
@@ -74,19 +58,10 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 
 ### `$ ls ./featured_projects/`
 
-<div align="center">
-
-[![Linux-Secure-FIM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Linux-Secure-FIM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Linux-Secure-FIM)
-&nbsp;&nbsp;
-[![Offensive-Security-Forensics-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Offensive-Security-Forensics-Portfolio&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Offensive-Security-Forensics-Portfolio)
-
-<br/>
-
-[![RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=RootQuest-CTF-Box-Multi-Stage-Exploitation-VM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM)
-&nbsp;&nbsp;
-[![Ethical_Hacking_01](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Ethical_Hacking_01&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Ethical_Hacking_01)
-
-</div>
+| | |
+| :---: | :---: |
+| [![Linux-Secure-FIM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Linux-Secure-FIM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Linux-Secure-FIM) | [![Offensive-Security-Forensics-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Offensive-Security-Forensics-Portfolio&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Offensive-Security-Forensics-Portfolio) |
+| [![RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=RootQuest-CTF-Box-Multi-Stage-Exploitation-VM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM) | [![Ethical_Hacking_01](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Ethical_Hacking_01&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Ethical_Hacking_01) |
 
 ---
 
