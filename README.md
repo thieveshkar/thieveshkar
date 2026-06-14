@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Thieveshkar+Selvakumar;Cyber+Security+%7C+SOC+Intern+%7C+Threat+Analyst;Final+Year+%E2%80%94+APIIT+Sri+Lanka+%C3%97+Staffordshire+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Thieveshkar+Kalaichelvan;Cyber+Security+%7C+SOC+Intern+%7C+Threat+Analyst;Final+Year+%E2%80%94+APIIT+Sri+Lanka+%C3%97+Staffordshire+University" alt="Typing SVG" />
 
 <br/>
 
@@ -43,9 +43,13 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=wireshark" height="36" />
 
+<br/><br/>
+
 **Web Development**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" height="36" />
+
+<br/><br/>
 
 **Design & Creative**
 
@@ -58,12 +62,14 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 ### `$ cat github_stats.txt`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thieveshkar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thieveshkar&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=00B4D8&text_color=c9d1d9&bg_color=0d1117" height="155" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thieveshkar&theme=transparent&hide_border=true&stroke=00B4D8&ring=00B4D8&fire=0096C7&currStreakNum=c9d1d9&sideNums=00B4D8&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=6e7681&background=0d1117" height="155" />
+<img src="https://github-readme-stats.vercel.app/api?username=thieveshkar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thieveshkar&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=00B4D8&text_color=c9d1d9&bg_color=0d1117" height="155" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thieveshkar&theme=transparent&hide_border=true&stroke=00B4D8&ring=00B4D8&fire=0096C7&currStreakNum=c9d1d9&sideNums=00B4D8&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=6e7681&background=0d1117" height="155" />
+
 </div>
 
 ---
@@ -72,10 +78,14 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 
 <div align="center">
 
-[![Linux-Secure-FIM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Linux-Secure-FIM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Linux-Secure-FIM)&nbsp;
+[![Linux-Secure-FIM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Linux-Secure-FIM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Linux-Secure-FIM)
+&nbsp;&nbsp;
 [![Offensive-Security-Forensics-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Offensive-Security-Forensics-Portfolio&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Offensive-Security-Forensics-Portfolio)
 
-[![RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=RootQuest-CTF-Box-Multi-Stage-Exploitation-VM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM)&nbsp;
+<br/>
+
+[![RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=RootQuest-CTF-Box-Multi-Stage-Exploitation-VM&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM)
+&nbsp;&nbsp;
 [![Ethical_Hacking_01](https://github-readme-stats.vercel.app/api/pin/?username=thieveshkar&repo=Ethical_Hacking_01&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/thieveshkar/Ethical_Hacking_01)
 
 </div>
@@ -86,8 +96,10 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thieveshkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/thieveshkar/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-thieveshkar.me-00B4D8?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://thieveshkar.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thieveshkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/thieveshkar/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-thieveshkar.me-00B4D8?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://thieveshkar.me)
+&nbsp;&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=thieveshkar&style=for-the-badge&color=00B4D8&labelColor=0d1117&label=Profile+Views)](https://github.com/thieveshkar)
 
 </div>
@@ -95,9 +107,11 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 ---
 
 <div align="center">
-  <img src="/Image/snake.svg" alt="GitHub contribution snake animation" />
-</div>
 
-<div align="center">
-  <sub>Securing the digital landscape — one commit at a time.</sub>
+<img src="/Image/snake.svg" alt="GitHub contribution snake animation" />
+
+<br/>
+
+<sub>Securing the digital landscape — one commit at a time.</sub>
+
 </div>
