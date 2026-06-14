@@ -39,9 +39,7 @@ My primary domain is **cybersecurity** — with hands-on experience in blue team
 
 **Cyber Security & Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,py,c" height="36" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=wireshark" height="36" />
+<img src="https://skillicons.dev/icons?i=linux,bash,py,c,wireshark" height="36" />
 
 <br/><br/>
 
